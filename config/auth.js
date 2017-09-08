@@ -16,8 +16,8 @@ module.exports = {
     },
 
     'googleAuth' : {
-        'clientID'      : ' 108117548611-vt2cq5v7acrd0bd5tooed0n6u8f4q4c4.apps.googleusercontent.com',
-        'clientSecret'  : ' pw8k684hLOb3Ar_xUhJWm-AA',
+        'clientID'      : '108117548611-vt2cq5v7acrd0bd5tooed0n6u8f4q4c4.apps.googleusercontent.com',
+        'clientSecret'  : 'pw8k684hLOb3Ar_xUhJWm-AA',
         'callbackURL'   : 'https://ukifunwork4bymino.herokuapp.com/auth/google/callback'
     }
 
