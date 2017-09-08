@@ -4,9 +4,9 @@
 module.exports = {
 
     'facebookAuth' : {
-        'clientID'      : '1715054528790247', // your App ID
-        'clientSecret'  : 'ba3abc93f10006afd294779a075392d0', // your App Secret
-        'callbackURL'   : 'https://ukifunwork4bymino.herokuapp.com/auth/facebook/callback'
+        'clientID'      : '1877628062455012', // your App ID
+        'clientSecret'  : '45bf0f715d291260fdfddb18c73e6d8e', // your App Secret
+        'callbackURL'   : 'https://authtrial.herokuapp.com/auth/facebook/callback'
     },
 
     'twitterAuth' : {
