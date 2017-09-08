@@ -16,9 +16,9 @@ module.exports = {
     },
 
     'googleAuth' : {
-        'clientID'      : '108117548611-sj31mii7aat2ohg7d3n5nq7jmivnu90u.apps.googleusercontent.com',
-        'clientSecret'  : 'UWSJyBKCNEXNiBoj3hoKWuRX',
-        'callbackURL'   : 'https://ukifunwork4bymino.herokuapp.com:8080/auth/google/callback'
+        'clientID'      : ' 108117548611-vt2cq5v7acrd0bd5tooed0n6u8f4q4c4.apps.googleusercontent.com',
+        'clientSecret'  : ' pw8k684hLOb3Ar_xUhJWm-AA',
+        'callbackURL'   : 'https://ukifunwork4bymino.herokuapp.com/auth/google/callback'
     }
 
 };
